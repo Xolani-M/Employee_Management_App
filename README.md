@@ -1,9 +1,12 @@
-# Employee_Management_App
+# 🚀👨‍💼 Employee Management App 👩‍💼🔧
 
 
 
+<br /> <br />
 
-# Visual Studio Code Extensions
+# 💻🚀 Visual Studio Code Extensions 🛠️💡
+
+
 
 ## React Native
 - Tools and features for React Native development.
@@ -22,9 +25,10 @@
 - Ensures consistent code style across the project.
 
 
+<br /> <br />
 
+## 📦🔗 Dependencies 🔧💡
 
-## Dependencies
 
 To install the required dependencies for this project, run the following command in your terminal:
 
